@@ -15,7 +15,7 @@ export default function HomePage() {
   useEffect(async () => {
     setCharacters(await fetchCharacters(offset));
   }, [offset]);
-  const pageCount = 100;
+  const pageCount = 7;
   const handlePageClick = (data) => {
     setOffset(data.selected * 10);
     console.log(data);
