@@ -27,7 +27,7 @@ function MainHeader() {
           className="img-fluid"
           width="1040"
           height="780"
-          src="/images/wp_png2.png"
+          src="/images/wp_png2.jpeg"
         />
       </div>
     </div>
