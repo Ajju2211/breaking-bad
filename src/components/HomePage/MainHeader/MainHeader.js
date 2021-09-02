@@ -29,7 +29,7 @@ function MainHeader() {
           width="1040"
           height="780"
           src="/images/wp_png2.jpeg"
-          usemap="#image-map">
+          usemap="#image-map"/>
 
       <map name="image-map">
           <area target="_blank" alt="Walter White" title="Walter White" href="https://br-b.netlify.app/character/1" coords="627,57,478,55,333,794,809,768,680,64,665,56" shape="poly">
